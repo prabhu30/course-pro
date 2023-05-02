@@ -1,0 +1,20 @@
+.container {
+	margin: 0 auto;
+	float: none;
+}
+
+.card {
+	margin: 0 1rem;
+	margin-bottom: 2rem;
+	
+}
+
+.card-body{
+	/*background-image: url('images/computer-typing.jpeg');*/
+}
+
+@media only screen and (min-width: 768px) {
+	.card {
+		margin: 0;
+	}
+}
